@@ -1,0 +1,19 @@
+html, body {
+  margin: 0;
+
+  padding: 0;
+
+  overflow: hidden;
+}
+
+body {
+  width: 100vw;
+  height: 100vh;
+
+  background-color: grey;
+}
+
+#play-screen {
+  display: block;
+  margin: 0;
+}
